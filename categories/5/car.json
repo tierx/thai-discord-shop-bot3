@@ -1,0 +1,57 @@
+[
+  {
+    "name": "BYD Han",
+    "price": 1800000.0,
+    "emoji": "🚗"
+  },
+  {
+    "name": "NIO ET7",
+    "price": 2500000.0,
+    "emoji": "🚗"
+  },
+  {
+    "name": "Li Auto L9",
+    "price": 2800000.0,
+    "emoji": "🚙"
+  },
+  {
+    "name": "XPeng P7",
+    "price": 1600000.0,
+    "emoji": "🚗"
+  },
+  {
+    "name": "Hongqi H9",
+    "price": 3500000.0,
+    "emoji": "🚗"
+  },
+  {
+    "name": "Great Wall Haval H6",
+    "price": 950000.0,
+    "emoji": "🚙"
+  },
+  {
+    "name": "Geely Xingyue L",
+    "price": 1200000.0,
+    "emoji": "🚙"
+  },
+  {
+    "name": "Wuling Hongguang Mini EV",
+    "price": 350000.0,
+    "emoji": "🚗"
+  },
+  {
+    "name": "Changan CS75 Plus",
+    "price": 850000.0,
+    "emoji": "🚙"
+  },
+  {
+    "name": "SAIC MG5",
+    "price": 750000.0,
+    "emoji": "🚗"
+  },
+  {
+    "name": "FAW Bestune T77",
+    "price": 780000.0,
+    "emoji": "🚙"
+  }
+]

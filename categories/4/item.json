@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Samsung Galaxy S25 Ultra",
+    "price": 50000.0,
+    "emoji": "📱"
+  },
+  {
+    "name": "Samsung Galaxy Z Fold",
+    "price": 65000.0,
+    "emoji": "📱"
+  },
+  {
+    "name": "LG OLED TV 65\"",
+    "price": 55000.0,
+    "emoji": "📺"
+  },
+  {
+    "name": "Samsung Galaxy Watch",
+    "price": 15000.0,
+    "emoji": "⌚"
+  },
+  {
+    "name": "ชุดเครื่องสำอางเกาหลี Premium",
+    "price": 5000.0,
+    "emoji": "💄"
+  },
+  {
+    "name": "มาส์กหน้าเกาหลี 100 ชิ้น",
+    "price": 1500.0,
+    "emoji": "😷"
+  },
+  {
+    "name": "ครีมบำรุงผิวเกาหลี",
+    "price": 2500.0,
+    "emoji": "🧴"
+  },
+  {
+    "name": "เครื่องใช้ไฟฟ้า LG ชุดพิเศษ",
+    "price": 25000.0,
+    "emoji": "🔌"
+  },
+  {
+    "name": "น้ำหอมแบรนด์เกาหลี",
+    "price": 3500.0,
+    "emoji": "🧪"
+  },
+  {
+    "name": "กล้องถ่ายรูป Hanwha",
+    "price": 28000.0,
+    "emoji": "📷"
+  },
+  {
+    "name": "ชุดสกินแคร์ Innisfree",
+    "price": 4800.0,
+    "emoji": "🧼"
+  }
+]

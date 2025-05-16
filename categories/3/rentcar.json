@@ -1,0 +1,57 @@
+[
+  {
+    "name": "เช่า Ford Mustang 1 วัน",
+    "price": 3500.0,
+    "emoji": "🏎️"
+  },
+  {
+    "name": "เช่า Ford Mustang 1 สัปดาห์",
+    "price": 21000.0,
+    "emoji": "🏎️"
+  },
+  {
+    "name": "เช่า Chevrolet Camaro 1 วัน",
+    "price": 3000.0,
+    "emoji": "🏎️"
+  },
+  {
+    "name": "เช่า Chevrolet Camaro 1 สัปดาห์",
+    "price": 18000.0,
+    "emoji": "🏎️"
+  },
+  {
+    "name": "เช่า Tesla Model 3 1 วัน",
+    "price": 3800.0,
+    "emoji": "🚗"
+  },
+  {
+    "name": "เช่า Tesla Model 3 1 สัปดาห์",
+    "price": 22000.0,
+    "emoji": "🚗"
+  },
+  {
+    "name": "เช่า Jeep Wrangler 1 วัน",
+    "price": 3200.0,
+    "emoji": "🚙"
+  },
+  {
+    "name": "เช่า Jeep Wrangler 1 สัปดาห์",
+    "price": 19000.0,
+    "emoji": "🚙"
+  },
+  {
+    "name": "เช่า Ford F-150 1 วัน",
+    "price": 2800.0,
+    "emoji": "🚚"
+  },
+  {
+    "name": "เช่า Ford F-150 1 สัปดาห์",
+    "price": 16000.0,
+    "emoji": "🚚"
+  },
+  {
+    "name": "เช่า Harley-Davidson 1 วัน",
+    "price": 2000.0,
+    "emoji": "🏍️"
+  }
+]

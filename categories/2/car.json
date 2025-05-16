@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Toyota Camry",
+    "price": 900000.0,
+    "emoji": "🚗"
+  },
+  {
+    "name": "Toyota Corolla Altis",
+    "price": 750000.0,
+    "emoji": "🚗"
+  },
+  {
+    "name": "Honda Accord",
+    "price": 1000000.0,
+    "emoji": "🚗"
+  },
+  {
+    "name": "Nissan Skyline",
+    "price": 2000000.0,
+    "emoji": "🚗"
+  },
+  {
+    "name": "Toyota Alphard",
+    "price": 3500000.0,
+    "emoji": "🚐"
+  },
+  {
+    "name": "Subaru Forester",
+    "price": 1200000.0,
+    "emoji": "🚙"
+  },
+  {
+    "name": "Mazda CX-5",
+    "price": 1100000.0,
+    "emoji": "🚙"
+  },
+  {
+    "name": "Honda CBR 1000",
+    "price": 600000.0,
+    "emoji": "🏍️"
+  },
+  {
+    "name": "Yamaha R1",
+    "price": 550000.0,
+    "emoji": "🏍️"
+  },
+  {
+    "name": "Lexus LS 500",
+    "price": 6000000.0,
+    "emoji": "🚘"
+  },
+  {
+    "name": "Nissan GT-R",
+    "price": 8000000.0,
+    "emoji": "🏎️"
+  }
+]

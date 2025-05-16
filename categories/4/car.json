@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Hyundai Genesis G90",
+    "price": 4200000.0,
+    "emoji": "🚗"
+  },
+  {
+    "name": "Kia K9",
+    "price": 3800000.0,
+    "emoji": "🚗"
+  },
+  {
+    "name": "Hyundai Ioniq 6",
+    "price": 2200000.0,
+    "emoji": "🚗"
+  },
+  {
+    "name": "Kia EV9",
+    "price": 2500000.0,
+    "emoji": "🚙"
+  },
+  {
+    "name": "Hyundai Tucson",
+    "price": 1500000.0,
+    "emoji": "🚙"
+  },
+  {
+    "name": "Kia Sportage",
+    "price": 1450000.0,
+    "emoji": "🚙"
+  },
+  {
+    "name": "SsangYong Rexton",
+    "price": 1800000.0,
+    "emoji": "🚙"
+  },
+  {
+    "name": "Genesis GV80",
+    "price": 3500000.0,
+    "emoji": "🚙"
+  },
+  {
+    "name": "Hyundai Sonata",
+    "price": 1200000.0,
+    "emoji": "🚗"
+  },
+  {
+    "name": "Kia Carnival",
+    "price": 1800000.0,
+    "emoji": "🚐"
+  },
+  {
+    "name": "Hyundai Palisade",
+    "price": 2200000.0,
+    "emoji": "🚙"
+  }
+]

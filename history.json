@@ -1,0 +1,67 @@
+{"user": "user_toon", "items": [{"name": "น้ำเปล่า", "qty": 3, "price": 10}], "total": 30, "timestamp": "2025-05-13T06:51:06.780035"}
+{"user": "user_toon", "items": [{"name": "ขนมปัง", "qty": 2, "price": 25}], "total": 50, "timestamp": "2025-05-13T07:02:23.918758"}
+{"user": "user_toon", "items": [{"name": "แพม", "qty": 1, "price": 10}], "total": 10, "timestamp": "2025-05-13T07:19:19.251402"}
+{"user": "user_toon", "items": [{"name": "น้ำเปล่า", "qty": 1, "price": 10}], "total": 10, "timestamp": "2025-05-13T07:32:43.626770"}
+{"user": "aimlab9103", "items": [{"name": "เหรียญ 100 บาท", "qty": 1, "price": 100}, {"name": "เหรียญ 1,000 บาท", "qty": 1, "price": 1000}], "total": 1100, "timestamp": "2025-05-13T08:23:52.942744"}
+{"user": "aimlab9103", "items": [{"name": "เหรียญ 100 บาท", "qty": 1, "price": 100}], "total": 100, "timestamp": "2025-05-13T08:26:58.323472"}
+{"user": "user_toon", "items": [{"name": "ปืนพก", "qty": 1, "price": 5000}, {"name": "มีด", "qty": 1, "price": 2000}], "total": 7000, "timestamp": "2025-05-13T08:28:33.847722"}
+{"user": "aimlab9103", "items": [{"name": "เหรียญ 100 บาท", "qty": 1, "price": 100}, {"name": "เหรียญ 1,000 บาท", "qty": 1, "price": 1000}], "total": 1100, "timestamp": "2025-05-13T08:29:38.935441"}
+{"user": "mj12.23.45", "items": [{"name": "มีด", "qty": 1, "price": 2000}], "total": 2000, "timestamp": "2025-05-13T08:30:45.253894"}
+{"user": "thisisaruby", "items": [{"name": "ยาสมุนไพร", "qty": 1, "price": 500}, {"name": "อาหาร", "qty": 1, "price": 200}, {"name": "น้ำเปล่า", "qty": 1, "price": 10}], "total": 710, "timestamp": "2025-05-13T08:39:30.403411"}
+{"user": "aimlab9103", "items": [{"name": "รถเบนซ์", "qty": 2, "price": 50000}, {"name": "รถแลมโบ", "qty": 1, "price": 100000}], "total": 200000, "timestamp": "2025-05-13T08:42:07.080021"}
+{"user": "aimlab9103", "items": [{"name": "รถเบนซ์", "qty": 5, "price": 50000}, {"name": "รถแลมโบ", "qty": 1, "price": 100000}], "total": 350000, "timestamp": "2025-05-13T08:43:07.869236"}
+{"user": "user_toon", "items": [{"name": "มีด", "qty": 1, "price": 2000}], "total": 2000, "timestamp": "2025-05-13T13:10:12.687151"}
+{"user": "user_toon", "items": [{"name": "เหรียญ 1,000 บาท", "qty": 1, "price": 1000}, {"name": "เงิน1m.", "qty": 2, "price": 200}, {"name": "มีด", "qty": 1, "price": 2000}], "total": 3400, "timestamp": "2025-05-13T13:22:09.419662"}
+{"user": "user_toon", "items": [{"name": "แว่นตากันแดด", "qty": 2, "price": 800}, {"name": "ปืนพก", "qty": 3, "price": 5000}, {"name": "มีด", "qty": 2, "price": 2000}], "total": 20600, "timestamp": "2025-05-13T13:31:01.933273"}
+{"user": "user_toon", "items": [{"name": "ยาสมุนไพร", "qty": 50, "price": 500}], "total": 25000, "timestamp": "2025-05-13T14:04:00.518065"}
+{"user": "user_toon", "items": [{"name": "เหรียญ 100 บาท", "qty": 5, "price": 100}], "total": 500, "timestamp": "2025-05-13T14:04:12.793511"}
+{"user": "user_toon", "items": [{"name": "เหรียญ 100 บาท", "qty": 5, "price": 100}, {"name": "ปืนพก", "qty": 5, "price": 5000}, {"name": "อาหาร", "qty": 6, "price": 200}, {"name": "รถแลมโบ", "qty": 1, "price": 100000}, {"name": "แว่นตากันแดด", "qty": 2, "price": 800}, {"name": "เช่ารถจี๊ป 1 วัน", "qty": 1, "price": 1500}], "total": 129800, "timestamp": "2025-05-13T14:04:53.013598"}
+{"user": "user_toon", "items": [{"name": "ปืนพก", "qty": 67, "price": 5000}, {"name": "รถแลมโบ", "qty": 2, "price": 100000}], "total": 535000, "timestamp": "2025-05-13T14:06:39.689070"}
+{"user": "user_toon", "items": [{"name": "มีด", "qty": 6, "price": 2000}, {"name": "เช่ารถจี๊ป 1 วัน", "qty": 6, "price": 1500}], "total": 21000, "timestamp": "2025-05-13T14:14:26.684841"}
+{"user": "user_toon", "items": [{"name": "AK-47", "qty": 5, "price": 50000}, {"name": "เช่ารถเฟอร์รารี่ 3 วัน", "qty": 5, "price": 13500}], "total": 317500, "timestamp": "2025-05-13T16:11:29.694040"}
+{"user": "user_toon", "items": [{"name": "สร้อยคอทอง", "qty": 2, "price": 25000}, {"name": "เช่ารถฮาร์เล่ย์ 1 วัน", "qty": 5, "price": 1200}], "total": 56000, "timestamp": "2025-05-13T16:15:37.800102"}
+{"user": "user_toon", "items": [{"name": "M4A1", "qty": 5, "price": 45000}, {"name": "เครื่องมือช่าง", "qty": 5, "price": 2000}], "total": 235000, "timestamp": "2025-05-13T16:18:50.220335"}
+{"user": "user_toon", "items": [{"name": "ปืนซุ่มยิง", "qty": 5, "price": 80000}, {"name": "เช่ารถปอร์เช่ 1 วัน", "qty": 5, "price": 4500}], "total": 422500, "timestamp": "2025-05-13T16:20:54.234973"}
+{"user": "user_toon", "items": [{"name": "เงิน 1 พันล้านบาท", "qty": 5, "price": 90000}, {"name": "not", "qty": 5, "price": 0}, {"name": "สร้อยคอทอง", "qty": 5, "price": 25000}], "total": 575000, "timestamp": "2025-05-13T16:54:33.758328"}
+{"user": "user_toon", "items": [{"name": "r3", "qty": 5, "price": 50}, {"name": "สร้อยคอทอง", "qty": 5, "price": 25000}], "total": 125250, "timestamp": "2025-05-13T17:02:56.803228"}
+{"user": "user_toon", "items": [{"name": "r3", "qty": 5, "price": 50}, {"name": "เช่ารถลัมโบกินี 7 วัน", "qty": 5, "price": 35000}], "total": 175250, "timestamp": "2025-05-13T17:07:53.984176"}
+{"user": "gacapro", "items": [{"name": "AK-47", "qty": 5, "price": 50000}, {"name": "สร้อยคอทอง", "qty": 1, "price": 25000}], "total": 275000, "timestamp": "2025-05-13T17:28:13.762364"}
+{"user": "user_toon", "items": [{"name": "เงินเขียว1-5M./R", "qty": 2, "price": 200.0}, {"name": "กล่องตี", "qty": 3, "price": 3.5}], "total": 410.5, "timestamp": "2025-05-13T18:04:14.117829"}
+{"user": "user_toon", "items": [{"name": "กล่องตี", "qty": 5, "price": 3.5}], "total": 17.5, "timestamp": "2025-05-13T18:21:04.616448"}
+{"user": "user_toon", "items": [{"name": "กล่องตี", "qty": 7, "price": 3.5}], "total": 24.5, "timestamp": "2025-05-13T18:27:41.176420"}
+{"user": "user_toon", "items": [{"name": "กล่องตี", "qty": 4, "price": 3.5}], "total": 14.0, "timestamp": "2025-05-13T18:28:36.588122"}
+{"user": "user_toon", "items": [{"name": "ชุดตี Sapphire", "qty": 1, "price": 100.0}], "total": 100.0, "timestamp": "2025-05-13T18:32:55.270526"}
+{"user": "user_toon", "items": [{"name": "Obsidian", "qty": 1, "price": 10.0}], "total": 10.0, "timestamp": "2025-05-13T18:33:29.503917"}
+{"user": "user_toon", "items": [{"name": "เงินเขียว1-5M./R", "qty": 1, "price": 200.0}, {"name": "กล่องตี", "qty": 5, "price": 3.5}], "total": 217.5, "timestamp": "2025-05-13T18:39:29.885316"}
+{"user": "user_toon", "items": [{"name": "ไม้ Poolcue", "qty": 1, "price": 330.0}, {"name": "กล่องตี", "qty": 7, "price": 3.5}], "total": 354.5, "timestamp": "2025-05-13T18:41:06.057968"}
+{"user": "user_toon", "items": [{"name": "Obsidian", "qty": 1, "price": 10.0}, {"name": "not2", "qty": 1, "price": 100.0}], "total": 110.0, "timestamp": "2025-05-14T01:42:24.811117"}
+{"user": "user_toon", "items": [{"name": "พิซซ่า", "qty": 5, "price": 150.0}], "total": 750.0, "timestamp": "2025-05-14T02:54:03.575965"}
+{"user": "user_toon", "items": [{"name": "พิซซ่า", "qty": 1, "price": 150.0, "country": "thailand", "country_thai": "ไทย"}], "total": 150.0, "timestamp": "2025-05-14T02:57:14.754203"}
+{"user": "user_toon", "items": [{"name": "พิซซ่า", "qty": 1, "price": 150.0, "country": "thailand", "country_thai": "ไทย"}], "total": 150.0, "timestamp": "2025-05-14T03:01:44.946166"}
+{"user": "user_toon", "items": [{"name": "เป็ดปักกิ่ง", "qty": 1, "price": 650.0, "country": "china", "country_thai": "จีน"}, {"name": "ขนมไหว้พระจันทร์", "qty": 1, "price": 250.0, "country": "china", "country_thai": "จีน"}], "total": 900.0, "timestamp": "2025-05-14T03:34:34.449629"}
+{"user": "user_toon", "items": [{"name": "กิมจิ", "qty": 1, "price": 120.0, "country": "korea", "country_thai": "เกาหลี"}], "total": 120.0, "timestamp": "2025-05-14T03:36:19.413818"}
+{"user": "user_toon", "items": [{"name": "พิซซ่า", "qty": 1, "price": 150.0, "country": "thailand", "country_thai": "ไทย"}], "total": 150.0, "timestamp": "2025-05-14T04:26:27.125728"}
+{"user": "user_toon", "items": [{"name": "พิซซ่า", "qty": 1, "price": 150.0, "country": "1", "country_thai": "a"}], "total": 150.0, "timestamp": "2025-05-14T05:20:11.281738"}
+{"user": "user_toon", "items": [{"name": "A1", "qty": 5, "price": 1.5, "country": "1", "country_thai": "a"}, {"name": "A1", "qty": 5, "price": 1.5, "country": "1", "country_thai": "a"}], "total": 15.0, "timestamp": "2025-05-14T06:54:10.923065"}
+{"user": "user_toon", "items": [{"name": "A1", "qty": 3, "price": 1.5}], "total": 4.5, "timestamp": "2025-05-14T07:15:10.508208"}
+{"user": "user_toon", "items": [{"name": "A2", "qty": 5, "price": 1.0}], "total": 5.0, "timestamp": "2025-05-14T07:16:13.452387"}
+{"user": "user_toon", "items": [{"name": "A2", "qty": 3, "price": 1.0, "country": "a"}], "total": 3.0, "timestamp": "2025-05-14T07:20:30.940328"}
+{"user": "user_toon", "items": [{"name": "A1", "qty": 1, "price": 1.5, "country": "a"}], "total": 1.5, "timestamp": "2025-05-14T08:33:13.584644"}
+{"user": "user_toon", "items": [{"name": "เงิน", "qty": 5, "price": 1.0, "country": "a"}], "total": 5.0, "timestamp": "2025-05-14T10:02:03.019778"}
+{"user": "user_toon", "items": [{"name": "เงิน", "qty": 5, "price": 1.0, "country": "a"}], "total": 5.0, "timestamp": "2025-05-14T10:06:25.698854"}
+{"user": "user_toon", "items": [{"name": "เงิน", "qty": 5, "price": 1.0, "country": "a"}], "total": 5.0, "timestamp": "2025-05-14T10:36:04.326027"}
+{"user": "user_toon", "items": [{"name": "เงิน", "qty": 5, "price": 1.0, "country": "a"}], "total": 5.0, "timestamp": "2025-05-14T10:42:23.341009"}
+{"user": "user_toon", "items": [{"name": "เงิน", "qty": 5, "price": 1.0, "country": "a"}], "total": 5.0, "timestamp": "2025-05-14T11:06:20.848945"}
+{"user": "user_toon", "items": [{"name": "เงิน", "qty": 55, "price": 1.0, "country": "a"}], "total": 55.0, "timestamp": "2025-05-14T11:06:56.049823"}
+{"user": "user_toon", "items": [{"name": "เงิน", "qty": 1, "price": 1.0, "country": "a"}], "total": 1.0, "timestamp": "2025-05-14T11:16:33.027213"}
+{"user": "user_toon", "items": [{"name": "เงิน", "qty": 1, "price": 1.0, "country": "a"}], "total": 1.0, "timestamp": "2025-05-14T12:11:17.887479"}
+{"user": "basxc", "items": [{"name": "เงิน", "qty": 1, "price": 1.0, "country": "a"}], "total": 1.0, "timestamp": "2025-05-14T12:12:07.557322"}
+{"user": "user_toon", "items": [{"name": "เงิน", "qty": 5, "price": 1.0, "country": "a"}], "total": 5.0, "timestamp": "2025-05-14T13:01:59.466016"}
+{"user": "user_toon", "items": [{"name": "เงิน", "qty": 56, "price": 1.0, "country": "a"}], "total": 56.0, "timestamp": "2025-05-14T13:07:50.948133"}
+{"user": "user_toon", "items": [{"name": "เงิน", "qty": 5, "price": 1.0, "country": "a"}], "total": 5.0, "timestamp": "2025-05-14T13:12:38.639595"}
+{"user": "user_toon", "items": [{"name": "เงิน", "qty": 5, "price": 1.0, "country": "a"}], "total": 5.0, "timestamp": "2025-05-14T14:09:19.739805"}
+{"user": "user_toon", "items": [{"name": "เงิน", "qty": 1, "price": 1.0, "country": "a"}], "total": 1.0, "timestamp": "2025-05-14T14:11:55.667815"}
+{"user": "user_toon", "items": [{"name": "เงิน", "qty": 1, "price": 1.0, "country": "a"}], "total": 1.0, "timestamp": "2025-05-14T15:08:56.929000"}
+{"user": "user_toon", "items": [{"name": "เงิน", "qty": 1, "price": 1.0, "country": "a"}], "total": 1.0, "timestamp": "2025-05-14T15:13:18.094318"}
+{"user": "user_toon", "items": [{"name": "เงิน", "qty": 1, "price": 1.0, "country": "a"}, {"name": "A1", "qty": 1, "price": 1.5, "country": "a"}, {"name": "ไม่มีสินค้า", "qty": 1, "price": 0, "country": "a"}], "total": 2.5, "timestamp": "2025-05-15T11:49:18.241566"}
+{"user": "user_toon", "items": [{"name": "ปืนลูกซอง", "qty": 1, "price": 15000.0, "country": "ไทย"}, {"name": "กางเกงมวยไทยพิเศษ", "qty": 1, "price": 2500.0, "country": "ไทย"}, {"name": "น้ำมันมวย", "qty": 2, "price": 800.0, "country": "ไทย"}], "total": 19100.0, "timestamp": "2025-05-15T20:08:13.138264"}

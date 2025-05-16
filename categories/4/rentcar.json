@@ -1,0 +1,57 @@
+[
+  {
+    "name": "เช่า Hyundai Sonata 1 วัน",
+    "price": 2500.0,
+    "emoji": "🚗"
+  },
+  {
+    "name": "เช่า Hyundai Sonata 1 สัปดาห์",
+    "price": 15000.0,
+    "emoji": "🚗"
+  },
+  {
+    "name": "เช่า Kia K5 1 วัน",
+    "price": 2800.0,
+    "emoji": "🚗"
+  },
+  {
+    "name": "เช่า Kia K5 1 สัปดาห์",
+    "price": 17000.0,
+    "emoji": "🚗"
+  },
+  {
+    "name": "เช่า Hyundai Palisade 1 วัน",
+    "price": 4500.0,
+    "emoji": "🚙"
+  },
+  {
+    "name": "เช่า Hyundai Palisade 1 สัปดาห์",
+    "price": 27000.0,
+    "emoji": "🚙"
+  },
+  {
+    "name": "เช่า KIA Carnival 1 วัน",
+    "price": 3500.0,
+    "emoji": "🚐"
+  },
+  {
+    "name": "เช่า KIA Carnival 1 สัปดาห์",
+    "price": 21000.0,
+    "emoji": "🚐"
+  },
+  {
+    "name": "เช่า Genesis G80 1 วัน",
+    "price": 5500.0,
+    "emoji": "🚗"
+  },
+  {
+    "name": "เช่า Genesis G80 1 สัปดาห์",
+    "price": 33000.0,
+    "emoji": "🚗"
+  },
+  {
+    "name": "เช่ามอเตอร์ไซค์ 1 วัน",
+    "price": 800.0,
+    "emoji": "🏍️"
+  }
+]

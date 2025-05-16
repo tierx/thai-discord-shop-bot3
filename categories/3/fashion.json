@@ -1,0 +1,57 @@
+[
+  {
+    "name": "เสื้อผ้าแบรนด์ Nike",
+    "price": 3500.0,
+    "emoji": "👕"
+  },
+  {
+    "name": "เสื้อผ้าแบรนด์ Adidas",
+    "price": 3200.0,
+    "emoji": "👚"
+  },
+  {
+    "name": "กางเกงยีนส์ Levi's",
+    "price": 2800.0,
+    "emoji": "👖"
+  },
+  {
+    "name": "แว่นตา Ray-Ban",
+    "price": 7000.0,
+    "emoji": "👓"
+  },
+  {
+    "name": "รองเท้า Nike Air Jordan",
+    "price": 8500.0,
+    "emoji": "👟"
+  },
+  {
+    "name": "รองเท้า New Balance",
+    "price": 5000.0,
+    "emoji": "👟"
+  },
+  {
+    "name": "กระเป๋า Coach",
+    "price": 12000.0,
+    "emoji": "👜"
+  },
+  {
+    "name": "นาฬิกา Fossil",
+    "price": 8000.0,
+    "emoji": "⌚"
+  },
+  {
+    "name": "หมวก New Era",
+    "price": 1800.0,
+    "emoji": "🧢"
+  },
+  {
+    "name": "เข็มขัด Tommy Hilfiger",
+    "price": 3500.0,
+    "emoji": "🧵"
+  },
+  {
+    "name": "ชุดสูท Ralph Lauren",
+    "price": 25000.0,
+    "emoji": "🧥"
+  }
+]

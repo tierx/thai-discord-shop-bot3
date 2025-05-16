@@ -1,0 +1,57 @@
+[
+  {
+    "name": "ชุดกิโมโน",
+    "price": 50000.0,
+    "emoji": "👘"
+  },
+  {
+    "name": "ชุดยูกาตะสำหรับเทศกาล",
+    "price": 15000.0,
+    "emoji": "👘"
+  },
+  {
+    "name": "รองเท้าเกี๊ยะ",
+    "price": 3000.0,
+    "emoji": "👡"
+  },
+  {
+    "name": "แว่นตา Uniqlo",
+    "price": 5000.0,
+    "emoji": "👓"
+  },
+  {
+    "name": "เสื้อผ้า Uniqlo",
+    "price": 2000.0,
+    "emoji": "👚"
+  },
+  {
+    "name": "กระเป๋า Porter",
+    "price": 8000.0,
+    "emoji": "👜"
+  },
+  {
+    "name": "รองเท้า Onitsuka Tiger",
+    "price": 4500.0,
+    "emoji": "👟"
+  },
+  {
+    "name": "นาฬิกา Seiko",
+    "price": 12000.0,
+    "emoji": "⌚"
+  },
+  {
+    "name": "หมวก BAPE",
+    "price": 3500.0,
+    "emoji": "🧢"
+  },
+  {
+    "name": "เสื้อ Supreme x CDG",
+    "price": 10000.0,
+    "emoji": "👕"
+  },
+  {
+    "name": "แหวนทองคำขาว",
+    "price": 25000.0,
+    "emoji": "💍"
+  }
+]

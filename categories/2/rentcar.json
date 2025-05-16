@@ -1,0 +1,57 @@
+[
+  {
+    "name": "เช่า Toyota Prius 1 วัน",
+    "price": 1500.0,
+    "emoji": "🚗"
+  },
+  {
+    "name": "เช่า Toyota Prius 1 สัปดาห์",
+    "price": 9000.0,
+    "emoji": "🚗"
+  },
+  {
+    "name": "เช่า Nissan Note 1 วัน",
+    "price": 1300.0,
+    "emoji": "🚗"
+  },
+  {
+    "name": "เช่า Nissan Note 1 สัปดาห์",
+    "price": 8000.0,
+    "emoji": "🚗"
+  },
+  {
+    "name": "เช่า Toyota Alphard 1 วัน",
+    "price": 5000.0,
+    "emoji": "🚐"
+  },
+  {
+    "name": "เช่า Toyota Alphard 1 สัปดาห์",
+    "price": 30000.0,
+    "emoji": "🚐"
+  },
+  {
+    "name": "เช่า Suzuki Jimny 1 วัน",
+    "price": 2000.0,
+    "emoji": "🚙"
+  },
+  {
+    "name": "เช่า Suzuki Jimny 1 สัปดาห์",
+    "price": 12000.0,
+    "emoji": "🚙"
+  },
+  {
+    "name": "เช่ารถมอเตอร์ไซค์ Honda 1 วัน",
+    "price": 500.0,
+    "emoji": "🏍️"
+  },
+  {
+    "name": "เช่า Nissan GT-R 1 วัน",
+    "price": 10000.0,
+    "emoji": "🏎️"
+  },
+  {
+    "name": "เช่า Lexus LS 1 วัน",
+    "price": 8000.0,
+    "emoji": "🚘"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "name": "ปืนพก Glock 19",
+    "price": 35000.0,
+    "emoji": "🔫"
+  },
+  {
+    "name": "ปืนพก Desert Eagle",
+    "price": 60000.0,
+    "emoji": "🔫"
+  },
+  {
+    "name": "ปืนไรเฟิล AR-15",
+    "price": 80000.0,
+    "emoji": "🔫"
+  },
+  {
+    "name": "ปืนไรเฟิล M16",
+    "price": 90000.0,
+    "emoji": "🔫"
+  },
+  {
+    "name": "ปืนลูกซอง Remington 870",
+    "price": 45000.0,
+    "emoji": "🔫"
+  },
+  {
+    "name": "ปืนสไนเปอร์ M24",
+    "price": 120000.0,
+    "emoji": "🎯"
+  },
+  {
+    "name": "กระสุนพิเศษ",
+    "price": 8000.0,
+    "emoji": "🧨"
+  },
+  {
+    "name": "ระเบิดมือ M67",
+    "price": 15000.0,
+    "emoji": "💣"
+  },
+  {
+    "name": "เสื้อเกราะกันกระสุน Level IV",
+    "price": 50000.0,
+    "emoji": "🦺"
+  },
+  {
+    "name": "มีด Bowie",
+    "price": 20000.0,
+    "emoji": "🔪"
+  },
+  {
+    "name": "มีด Karambit",
+    "price": 25000.0,
+    "emoji": "🗡️"
+  }
+]
